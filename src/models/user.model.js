@@ -32,7 +32,7 @@ const userSchema = new Schema(
         },
         avatar: {
             type: String, // cludnary url
-            required: true,
+            
         },
         coverImage: {
             type: String, // cloudnary url 
